@@ -1,5 +1,5 @@
 baseurl = "https://wldt.github.io"
-canonifyURLs = false
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
