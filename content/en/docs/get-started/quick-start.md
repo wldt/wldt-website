@@ -45,7 +45,6 @@ git clone https://github.com/h-enk/doks-child-theme.git my-doks-site
 - Intended for intermediate to advanced users
 - Intended for major customizations
 
-
 ```bash
 git clone https://github.com/h-enk/doks.git my-doks-site
 ```

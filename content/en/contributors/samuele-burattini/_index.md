@@ -9,8 +9,6 @@ images: []
 
 PhD Student of University of Bologna and Developer of the WLDT Library
 
-
 ## About Me
-
 
 ## Blogposts
