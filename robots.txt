@@ -1,4 +1,5 @@
 User-agent: *
-Allow: /
+Allow: *
 
-Sitemap: https://wldt.github.io/sitemap.xml
+
+Sitemap: https://wldt.github.iositemap.xml
