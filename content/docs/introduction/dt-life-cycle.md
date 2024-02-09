@@ -34,7 +34,7 @@ by the application layer.
 - **Done**: this is the state that the DT reaches when the shadowing process is stopped, 
 but the DT continues to be active to handle requests coming from external applications.
 
-#### From Unbound to Bound
+## From Unbound to Bound
 
 Taking into account the target reference Life Cycle the first point to address is how we can move from an `UnBound` state
 to a `Bound` condition with respect to the relationship with the Physical Layer. 
@@ -66,7 +66,7 @@ and its capabilities to read data and execute actions
 - It is a responsibility of the DT to handle multiple descriptions in order to build the digital replica
 - It will be used by the DT to handle the shadowing process and keep the digital replica synchronized with the physical counterpart
 
-#### From Bound to Shadowed
+## From Bound to Shadowed
 
 Following the same approach described in the previous step we need to define a procedure to allow the DT to move from  a `Bound` state
 to a `Shadowed` condition where the twin identified the interesting capabilities of the Physical Asset that has to be 

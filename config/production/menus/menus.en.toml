@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Documentation"
-  url = "/docs/guides/example-guide/"
+  url = "/docs/introduction/library-structure-basic-concepts/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
