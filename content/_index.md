@@ -8,6 +8,8 @@ draft: false
 images: []
 ---
 
+![WLDT Library Logo](images/logo.png)
+
 ### What is a digital Twin?
 
 A **Digital Twin** (DT) is a comprehensive software representation of any individual **Physical Asset** (PA) in the real world.  
