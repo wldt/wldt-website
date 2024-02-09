@@ -1,24 +1,26 @@
 ---
-title: "Digital Twin Abstraction & Model"
+title: "DT Model"
 description: ""
 summary: ""
-date: 2023-09-07T16:04:48+02:00
-lastmod: 2023-09-07T16:04:48+02:00
+date: 2024-02-09T11:44:11+01:00
+lastmod: 2024-02-09T11:44:11+01:00
 draft: false
 images: []
 menu:
   docs:
     parent: ""
-    identifier: "example-6a1a6be4373e933280d78ea53de6158e"
-weight: 810
+    identifier: "dt-model-122cfb3ade1105ebc3cbd884b821be68"
+weight: 997
 toc: true
+---
+
 ---
 
 With respect to the element present in the real world, 
 it is defined as a Physical Asset (PA) with the intention of referring to any entity 
 that has a manifestation or relevance in the physical world and a well-defined lifespan.
 
-![Abstract DT Structure](abstract_dt_structure.jpeg)
+<!-- ![Abstract DT Structure](abstract_dt_structure.jpeg) -->
 
 The previous Figure schematically illustrates the main component of an abstract Digital Twin and clarifies its 
 responsibility to be a bridge between the cyber and the physical world. 
@@ -77,9 +79,3 @@ propagates the request through its physical interface.
 An important aspect to emphasize is that the request for a ``digital_action`` does not 
 directly change the state of the DT since any changes can only occur as a result of the 
 shadowing function from the PA to the DT, as described earlier.
-
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps. Writing a good guide requires thinking about what your users are trying to do.
-
-## Further reading
-
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
