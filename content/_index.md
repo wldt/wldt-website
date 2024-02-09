@@ -8,7 +8,7 @@ draft: false
 images: []
 ---
 
-![WLDT Library Logo](images/logo.png)
+![WLDT Library Logo](logo.png)
 
 ### What is a digital Twin?
 
