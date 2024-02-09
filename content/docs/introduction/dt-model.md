@@ -20,7 +20,7 @@ With respect to the element present in the real world,
 it is defined as a Physical Asset (PA) with the intention of referring to any entity 
 that has a manifestation or relevance in the physical world and a well-defined lifespan.
 
-<!-- ![Abstract DT Structure](abstract_dt_structure.jpeg) -->
+![Abstract DT Structure](images/abstract_dt_structure.jpeg)
 
 The previous Figure schematically illustrates the main component of an abstract Digital Twin and clarifies its 
 responsibility to be a bridge between the cyber and the physical world. 

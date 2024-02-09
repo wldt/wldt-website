@@ -44,7 +44,7 @@ Specifically, from the image it is possible to identify the three levels on whic
 architecture is developed: the one related to the ``core`` of the library, the one that ``models`` the DT, 
 and finally, that of the ``adapters``.
 
-<!-- ![DT Life Cycle](wldt_structure.jpg) -->
+![DT Life Cycle](images/wldt_structure.jpg)
 
 Each of this core components has the following main characteristics:
 

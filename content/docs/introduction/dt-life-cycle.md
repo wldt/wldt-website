@@ -15,7 +15,7 @@ toc: true
 ---
 
 
-<!-- ![DT Life Cycle](life_cycle.jpeg) -->
+![DT Life Cycle](images/life_cycle.jpeg)
 
 The modeling of the concept of DT includes also the definition and characterization of its life cycle. 
 Based on the scientific literature, we model (and then map into the library) a life cycle with 5 states 
@@ -39,7 +39,7 @@ but the DT continues to be active to handle requests coming from external applic
 Taking into account the target reference Life Cycle the first point to address is how we can move from an `UnBound` state
 to a `Bound` condition with respect to the relationship with the Physical Layer. 
 
-<!-- ![DT Life Cycle](unbound_to_bound.jpeg) -->
+![DT Life Cycle](images/unbound_to_bound.jpeg)
 
 The previous Figure illustrates a simple scenario where a Physical Asset uses two protocols (P1 and P2) to communicate and it is 
 connected to the Digital Twin through a DT's Physical Interface enabled with two dedicated Adapters for protocol P1 and P2.
@@ -49,7 +49,7 @@ while on P2 allows incoming action requests (e.g., turn on/off the light). The D
 only when it is bound and has a description of the properties and capabilities of the associated physical counterpart.
 The schematic procedure is illustrated in the following Figure: 
 
-<!-- ![DT Life Cycle](unbound_to_bound_steps.jpeg) -->
+![DT Life Cycle](images/unbound_to_bound_steps.jpeg)
 
 Involved steps are: 
 
@@ -72,7 +72,7 @@ Following the same approach described in the previous step we need to define a p
 to a `Shadowed` condition where the twin identified the interesting capabilities of the Physical Asset that has to be 
 digitalized and according to the received Physical Asset Descriptions start the shadowing procedure to be synchronized with the physical world.
 
-<!-- ![DT Life Cycle](bound_to_shadowed.jpeg) -->
+![DT Life Cycle](images/bound_to_shadowed.jpeg)
 
 As schematically illustrated in the previous Figure, involved steps are:
 
@@ -102,4 +102,4 @@ Digital Adapters to trigger action on the DT and consequently to propagate (if a
 the incoming request to the physical assets bound with the target DT. Supported events are illustrated in the following 
 schema. 
 
-<!-- ![DT Life Cycle](wldt_digital_events.jpeg) -->
+![DT Life Cycle](images/wldt_digital_events.jpeg)
