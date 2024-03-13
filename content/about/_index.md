@@ -53,4 +53,4 @@ New users first need to join the MEC Sandbox slack workspace by creating a new a
 
 ## :bug: Reporting Issues
 
-WLDT issues should be reported on Slack, where they can be discussed with the core team that maintains the MEC Sandbox.
+WLDT issues should be reported on Slack, where they can be discussed with the core team that maintains the WLDT Library.
