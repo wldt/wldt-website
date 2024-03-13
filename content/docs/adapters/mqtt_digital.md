@@ -27,9 +27,7 @@ Main functionalities are:
 - Dynamic configuration of the MqttDigitalAdapter with broker details, topics, and other settings.
 - Allows customization of data and payload management associated to MQTT topics for properties, events, and actions.
 
-<div align="center">
-  <img class="center" src="images/adapter_schema.jpg" width="100%">
-</div>
+![MQTT Digital Adapter](images/mqtt_digital_adapter_schema.jpg)
 
 Prerequisites:
 

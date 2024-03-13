@@ -26,9 +26,7 @@ Key Features:
 - **State Monitoring:** Monitors changes in the Digital Twin state and provides HTTP endpoints to query the state of the Digital Twin (properties, events, actions and relationships).
 - **Event Notifications:** Allows developers to retrieve event notifications triggered by changes in the Digital Twin state.
 
-<div align="center">
-  <img class="center" src="images/adapter_schema.jpg" width="100%">
-</div>
+![HTTP Digital Adapter](images/http_digital_adapter_schema.jpg)
 
 A complete example is provided in the `test` folder with a complete DT Creation in the `TestMain` class together with a demo DT with and emulated Physical Adapter and the HTTP Digital Adapter.
 

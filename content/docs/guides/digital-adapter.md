@@ -260,3 +260,6 @@ protected void onStateUpdate(DigitalTwinState newDigitalTwinState,
 
 In this example, the method iterates over the list of state changes, extracts information about each change, and performs custom actions based on the changes. 
 Developers can adapt this method to suit the specific requirements of their Digital Twin application.
+
+Both Physical Adapters and Digital Adapters can be defined natively with a custom configuration provided by the developer
+as illustrated in the dedicated Section: [Configurable Physical & Digital Adapters](/docs/guides/configurable-adapters/).

@@ -309,4 +309,4 @@ public class DemoPhysicalAdapter extends PhysicalAdapter {
 ```
 
 Both Physical Adapters and Digital Adapters can be defined natively with a custom configuration provided by the developer
-as illustrated in the dedicated Section: [Configurable Physical & Digital Adapters](#configurable-physical-and-digital-adapters).
+as illustrated in the dedicated Section: [Configurable Physical & Digital Adapters](/docs/guides/configurable-adapters/).

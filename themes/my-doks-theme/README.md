@@ -8,6 +8,18 @@ Copy the file(s) you'd like to override from `./node_modules/@hyas/doks-core/` a
 
 Supported folders are: `archetypes`, `assets`, `data`, and `layouts`.
 
+## Running Local Instance
+
+```
+npm run dev
+```
+
+## Create new content
+
+```
+npm run create about/test.md
+```
+
 ## Mounting settings
 
 If needed, you can change the mountings settings in `./config/_default/module.toml`. See also the Hugo docs: [Module Config: mounts](https://gohugo.io/hugo-modules/configuration/#module-config-mounts).
