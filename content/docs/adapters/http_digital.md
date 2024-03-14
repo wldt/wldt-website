@@ -200,6 +200,6 @@ Available endpoints with the associated methods are:
 - `GET` `/state/relationships/{relationshipName}/instances`: Retrieves the instances of the specified relationship (e.g., /state/relationships/insideIn/instances) in the Digital Twin state.
 
 Note: Replace {propertyKey}, {actionKey}, and {relationshipName} with the actual values you want to retrieve or trigger.
-Make sure to use the appropriate HTTP method (GET, POST) and include any required parameters or payload as described in each endpoint's description. For more detailed information, refer to the Postman Collection for this API available in the folder `api`: [http_adapter_api_postman.json](api%2Fhttp_adapter_api_postman.json)`
+Make sure to use the appropriate HTTP method (GET, POST) and include any required parameters or payload as described in each endpoint's description. For more detailed information, refer to the Postman Collection for this API available in the folder `api`: [http_adapter_api_postman.json](https://github.com/wldt/http-digital-adapter-java/blob/master/api/http_adapter_api_postman.json)
 
 
