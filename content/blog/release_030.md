@@ -1,5 +1,5 @@
 ---
-title: "WLDT Library Version 0.3.0"
+title: "ls WLDT Library Version 0.3.0"
 description: "Introducing WLDT Library Version 0.3.0"
 summary: ""
 date: 2024-03-13T16:27:22+02:00
