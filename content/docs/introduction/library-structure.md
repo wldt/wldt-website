@@ -100,6 +100,7 @@ selects the components of the various PADs that it is interested in managing.
 to be notified of changes in the DT state. 
 Symmetrically to what happens with Physical Adapters, a Digital Twin can define 
 multiple Digital Adapters to expose its state and functionality through different protocols.
+- **Storage Layer**: The storage layer has been integrated into the core library with the aim to enable a manual or automatic storage of data related to the evolution of Digital Twins state, the associated generated and processed events, and any variations involving properties, events, actions, relationships, and life cycle.
 
 Therefore, to create a Digital Twin using WLDT, it is necessary to define and instantiate a DT with its Shadowing Function and 
 at least one Physical Adapter and one Digital Adapter, in order to enable connection with the physical 
